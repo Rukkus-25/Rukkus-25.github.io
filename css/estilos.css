@@ -1,0 +1,116 @@
+body{
+    background-color:  #D3D3D3;
+}
+
+#highlight{
+    color: black;
+    background-color:  #aed6f1 ;
+}
+
+/*Fuente de Texto #1*/
+.orb{
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color:  #2F4F4F ;
+    background: #B0C4DE;
+  }
+
+/*Fuente de Texto #2*/
+.exo{
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    font-style: normal;    
+  }
+
+/*Fuente de Texto #3*/
+.lobster-title{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 65px;
+    color: #483D8B;
+    background-color: #008B8B;
+    text-align: left;
+    text-decoration: underline;
+  }
+
+/*Fuente de Texto #4*/
+.table_h{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: #483D8B;    
+    text-align: center;
+    text-decoration: underline;
+  }
+
+
+p{
+    color: #1e262b;
+    background-color: #F0FFFF;
+}
+
+ol{
+    color: #1e262b;
+    background-color: #F0FFFF;
+}
+
+ul{
+    color: #1e262b;
+    background-color: #F0FFFF;
+}
+
+.table_1{
+    background-color: #B0C4DE;    
+    tab-size: 700;
+    color: #1e262b;
+}
+
+thead{
+    background-color: #008B8B;    
+}
+
+#tbody_1{
+    text-align: center;
+}
+
+.lefties{
+    text-align: left;
+}
+
+#formulario{
+    background-color: #008B8B;
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    font-style: normal;
+    color: black;       
+}
+
+textarea{
+    background-color: #B0C4DE;
+}
+
+input{
+    background-color: #B0C4DE;
+}
+
+select{
+    background-color: #B0C4DE;
+}
+
+button{
+    background-color: #B0C4DE;
+}
+
+
+
